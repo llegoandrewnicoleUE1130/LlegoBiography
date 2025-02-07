@@ -1,3 +1,7 @@
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
 <h1 align="center">Life Never Goes The Way You Wanted It</h1>
 <hr size="5" color="cyan">
 
